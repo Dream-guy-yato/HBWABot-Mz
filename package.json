@@ -59,7 +59,7 @@
     "jsdom": "^22.1.0",
     "lodash": "^4.17.21",
     "mal-scraper": "^2.11.4",
-    "mathjs": "^11.3.0",
+    "mathjs": "^13.0.3",
     "megajs": "^1.1.4",
     "moment-timezone": "^0.5.43",
     "node-cron": "^3.0.0",
